@@ -4,12 +4,12 @@ Welcome to the **DataScience with Python** repository! This repository is a coll
 
 ## Table of Contents 📚
 
-1. [Introduction](#introduction)
-2. [Notes](#notes)
-3. [Tips](#tips)
-4. [Cheatsheets](#cheatsheets)
-5. [Contributing](#contributing)
-6. [License](#license)
+1. [Introduction](#introduction-)
+2. [Notes](#notes-)
+3. [Tips](#tips-)
+4. [Cheatsheets](#cheatsheets-)
+5. [Contributing](#contributing-)
+6. [License](#license-)
 
 ## Introduction 📝
 
