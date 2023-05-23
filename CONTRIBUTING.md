@@ -72,9 +72,7 @@ If you have any additional questions or need further assistance, you can reach o
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license
-
--file). By contributing to this project, you agree to abide by the terms of this license.
+This project is licensed under the [MIT License](https://github.com/Uninterestedguy/Datascience-with-python/blob/main/LICENSE). By contributing to this project, you agree to abide by the terms of this license.
 
 We appreciate your time and effort in contributing to the DataScience with Python repository! Your contributions play a vital role in creating a valuable resource for the data science community.
 
