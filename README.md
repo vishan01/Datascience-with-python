@@ -32,11 +32,11 @@ In addition to the notes, this repository provides helpful tips and tricks for d
 
 This repository offers a variety of cheatsheets that serve as handy references for common data science tasks. These cheatsheets provide concise summaries of key concepts, functions, and methods related to Python libraries and frameworks frequently used in data science. Some of the cheatsheets you can find here include:
 
-- [NumPy cheatsheet](): A quick reference for array manipulation and numerical computing with NumPy.
-- [Pandas cheatsheet](): A comprehensive guide to data manipulation and analysis with Pandas.
-- [Matplotlib cheatsheet](): A reference for creating visualizations using Matplotlib.
-- [Scikit-learn cheatsheet](): A handy resource for machine learning algorithms and model selection with Scikit-learn.
-- [TensorFlow cheatsheet](): A guide to deep learning concepts and operations in TensorFlow.
+- [NumPy cheatsheet](https://github.com/Uninterestedguy/Datascience-with-python/tree/main/CHEATSHEETS/NUMPY): A quick reference for array manipulation and numerical computing with NumPy.
+- [Pandas cheatsheet](https://github.com/Uninterestedguy/Datascience-with-python/tree/main/CHEATSHEETS/PANDAS): A comprehensive guide to data manipulation and analysis with Pandas.
+- [Matplotlib cheatsheet](https://github.com/Uninterestedguy/Datascience-with-python/tree/main/CHEATSHEETS/MATPLOTLIB): A reference for creating visualizations using Matplotlib.
+- [Scikit-learn cheatsheet](https://github.com/Uninterestedguy/Datascience-with-python/tree/main/CHEATSHEETS/SCIKIT-LEARN): A handy resource for machine learning algorithms and model selection with Scikit-learn.
+- [TensorFlow cheatsheet](https://github.com/Uninterestedguy/Datascience-with-python/tree/main/CHEATSHEETS/TENSORFLOW): A guide to deep learning concepts and operations in TensorFlow.
 - And more!
 
 These cheatsheets can be printed or saved for easy access whenever you need a quick reminder of syntax or functionality.
